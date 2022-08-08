@@ -1,0 +1,8 @@
+D:\Visual Studio\Project\Shop\Shop\obj\Debug\Shop.csproj.AssemblyReference.cache
+D:\Visual Studio\Project\Shop\Shop\obj\Debug\Shop.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Project\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Project\Shop\Shop\bin\Debug\Shop.exe.config
+D:\Visual Studio\Project\Shop\Shop\bin\Debug\Shop.exe
+D:\Visual Studio\Project\Shop\Shop\bin\Debug\Shop.pdb
+D:\Visual Studio\Project\Shop\Shop\obj\Debug\Shop.exe
+D:\Visual Studio\Project\Shop\Shop\obj\Debug\Shop.pdb
